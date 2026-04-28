@@ -1,0 +1,37 @@
+From:	ecmsprocess.in@capgemini.com
+Sent:	20 March 2026 12:05
+To:	Patil, Charulata
+Cc:	IN, ECMS Process; Raj, Aryan; Chavan, Sameer (I&D); Patil, Charulata
+Subject:	Resignation Submission by Aryan Raj ( 30080136 ) 
+
+ 
+Hi Charulata Patil ,
+Please be informed that the following employee has submitted a resignation application through 
+the ECMS system.
+Employee Name
+Aryan Raj
+Employee ID
+30080136
+Designation
+Software Engineer
+Location
+Pune
+Global Date of Joining (Hire Date)
+2025-05-29
+LWD
+17-Jun-2026
+SBU
+FS
+BU
+I and D India_FS
+SUB BU
+ID-FSIN-AIDE
+Note:
+If the request is not actioned within 15 days from the employee's resignation date, the system 
+would auto approve the request.
+ECMS Useful Links: ECMS
+For Performance Management (Getsuccess) queries. Pl reach out to GLOBAL, Talent Management 
+Support <tmsupport.global@capgemini.com>
+Please do not reply to this automated message. You will not get any acknowledgement or response.
+Regards, 
+HRSS GetONWARDS Team
